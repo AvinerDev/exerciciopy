@@ -5,7 +5,8 @@
 #from add_nomes import coletar_nomes
 #from lista_nomes import lista_nomes
 #from lista_numeros import rang_numeros
-from negativo_positivo import neg_or_pos
+#from negativo_positivo import neg_or_pos
+from horas_jogo import hora_do_jogo
 
 
 
@@ -17,7 +18,8 @@ def main():
     #coletar_nomes()
     #lista_nomes()
     #rang_numeros()
-    neg_or_pos()
+    #neg_or_pos()
+    hora_do_jogo()
 
 if __name__ == "__main__":
     main()
